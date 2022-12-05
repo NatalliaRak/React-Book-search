@@ -7,7 +7,7 @@ import Col from 'react-bootstrap/Col';
 import Cover from '../img/book.png';
 
 
-const api = '&key=AIzaSyDeV-UhZMbNQcRCy3J-575Q-HipJmI1UoM';
+const api = ' ';
 const bookUrl = 'https://www.googleapis.com/books/v1/volumes?q=';
 const add = '&maxResults=40&key=';
 
